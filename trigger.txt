@@ -1,1 +1,1 @@
-ubuntu/squid:latest crpi-k13bgkyz1bkqesok.cn-hangzhou.personal.cr.aliyuncs.com/cmaohua/squid:latest
+semitechnologies/weaviate:1.19.0 crpi-k13bgkyz1bkqesok.cn-hangzhou.personal.cr.aliyuncs.com/cmaohua/weaviate:1.19.0
