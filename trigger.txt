@@ -1,1 +1,1 @@
-langgenius/dify-sandbox:0.2.1 crpi-k13bgkyz1bkqesok.cn-hangzhou.personal.cr.aliyuncs.com/cmaohua/dify-sandbox:0.2.1
+langgenius/dify-api:0.15.1 crpi-k13bgkyz1bkqesok.cn-hangzhou.personal.cr.aliyuncs.com/cmaohua/dify-api:0.15.1
