@@ -1,1 +1,1 @@
-langgenius/dify-api:0.15.1 crpi-k13bgkyz1bkqesok.cn-hangzhou.personal.cr.aliyuncs.com/cmaohua/dify-api:0.15.1
+langgenius/dify-web:0.15.1 crpi-k13bgkyz1bkqesok.cn-hangzhou.personal.cr.aliyuncs.com/cmaohua/dify-web:0.15.1
