@@ -1,1 +1,1 @@
-nginx:latest crpi-k13bgkyz1bkqesok.cn-hangzhou.personal.cr.aliyuncs.com/cmaohua/nginx:latest
+ubuntu/squid:latest crpi-k13bgkyz1bkqesok.cn-hangzhou.personal.cr.aliyuncs.com/cmaohua/squid:latest
